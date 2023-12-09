@@ -1,5 +1,5 @@
 #gekürzte Therme
-a = int(input("Wert für a: "))
+a = int(input("Wert fuer a: "))
 b = int(input("Wert für b: "))
 c = int(input("Wert für c: "))
 d = int(input("Wert für d: "))
