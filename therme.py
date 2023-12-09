@@ -1,9 +1,9 @@
 #gekürzte Therme
 a = int(input("Wert fuer a: "))
-b = int(input("Wert für b: "))
-c = int(input("Wert für c: "))
-d = int(input("Wert für d: "))
-v = int(input("Wert für v: "))
+b = int(input("Wert fuer b: "))
+c = int(input("Wert fuer c: "))
+d = int(input("Wert fuer d: "))
+v = int(input("Wert fuer v: "))
 
 ergebnis_1 = bool(not a and not b)
 ergebnis_2 = bool((a and (b or c)) or (b and not c))
